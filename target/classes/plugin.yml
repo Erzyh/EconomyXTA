@@ -1,0 +1,15 @@
+name: XTA_Economy
+version: '1.0-SNAPSHOT'
+author: Erze
+
+main: org.erze.xta_economy.XTA_Economy
+
+api-version: 1.19
+
+commands:
+  eco:
+    description: Economy management command
+  money:
+    description: Check your money balance
+  wallet:
+    description: Check your money balance
